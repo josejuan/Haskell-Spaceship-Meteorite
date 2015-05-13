@@ -16,9 +16,8 @@ Algunas cuestiones/mejoras:
 * Aunque se usan _lens_, puede hacerse un uso mucho mejor.
 * El uso de la mónada _StateT_ junto con _lens_ puede mejorar bastante el código.
 
-[[SpaceShipMeteorite.gif]]
 ![Spaceship sample video](/SpaceShipMeteorite.gif?raw=true "Sample video")
 
-https://youtu.be/_-XpkepoDhQ
+(como vídeo https://youtu.be/_-XpkepoDhQ )
 
 
