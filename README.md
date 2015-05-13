@@ -17,6 +17,7 @@ Algunas cuestiones/mejoras:
 * El uso de la mónada _StateT_ junto con _lens_ puede mejorar bastante el código.
 
 [[SpaceShipMeteorite.gif]]
+![Spaceship sample video](/SpaceShipMeteorite.gif?raw=true "Sample video")
 
 https://youtu.be/_-XpkepoDhQ
 
