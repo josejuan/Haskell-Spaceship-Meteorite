@@ -13,8 +13,8 @@ import qualified SpaceShip.Objects.Ship as SO
 import SpaceShip.Collisions
 
 -- fighting area dimensions
-wKm = 450 -- km
-hKm = 400 -- km
+wKm = 450 -- m
+hKm = 400 -- m
 
 onReshape :: IORef State -> Size -> IO ()
 onReshape rst size@(Size w h) = do
